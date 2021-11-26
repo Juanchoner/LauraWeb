@@ -8,8 +8,8 @@ function implantesInfo(info, btnRecina, btnImplantes, btnProtesis, btnCerrar){
             myInfo.style.display = "block";
             d.querySelector(info).innerHTML = `
             <div class="more-information">
-                <h5>Recina o composite</h5>
-                <p>Son tratamientos sencillos que permiten mejorar en gran medida la estetica de la sonrisa, que se pueden utilizar en dientes dañados o careados, en el cual el material que se utiliza se trabaja semejando el color del diente  por lo que  el resultado es una restauracion cosmetica y agradable.</p>
+                <h5>Resina o composite</h5>
+                <p>Son tratamientos sencillos que permiten mejorar en gran medida la estética de la sonrisa, que se pueden utilizar en dientes dañados o careados, en el cual el material que se utiliza se trabaja semejando el color del diente  por lo que  el resultado es una restauración cosmética y agradable.</p>
                 <div class="button-flex">
                     <button id="cerrar">Cerrar</button>
                 </div>
@@ -21,7 +21,7 @@ function implantesInfo(info, btnRecina, btnImplantes, btnProtesis, btnCerrar){
             d.querySelector(info).innerHTML = `
             <div class="more-information">
                 <h5>Implantes</h5>
-                <p>Es el procedimiento de elección cuando hay pérdida de piezas. Se trata de un tornillo de titanio que sostiene un diente artificial. Se inserta al hueso y la pieza posee la apariencia y la función de un diente o muela natural.</p>
+                <p>Es el procedimiento de elección cuando hay pérdida de piezas. Se trata de un tornillo de titanio que sostiene un diente artificial. Se inserta en el hueso y la pieza posee la apariencia y la función de un diente o muela natural.</p>
                 <div class="button-flex">
                     <button id="cerrar">Cerrar</button>
                 </div>
